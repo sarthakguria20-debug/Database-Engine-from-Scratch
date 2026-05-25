@@ -1,0 +1,6 @@
+{
+  "name": "LSM DB Store",
+  "description": "A robust Key-Value datastore showcasing Write-Ahead Logging (WAL) for durability and MemTable operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
